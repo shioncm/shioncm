@@ -1,9 +1,22 @@
-#### Hi 👾
+<h1 align='center'>
+  👾 Hi 👾
+</h1>
 
-- ✏️ Skills: Scikit-learn / NumPy / Pandas
-- 🏫 Computer Engineering @ The Cooper Union
-- 👩‍💻 AI/ML Fellow @ Cornell Tech BTT
-- 🌱Currently learning: TensorFlow and React 
+<p align='center'>  
+  <a href="https://www.linkedin.com/in/shioncm/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shioncm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shioncm/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shioncm&theme=tokyonight&hide_border=true)
+<div style="text-align: center;">
+  <ul style="display: inline-block;">
+    <li>✏️ Skills: Scikit-learn / NumPy / Pandas</li>
+    <li>🏫 Computer Engineering @ The Cooper Union</li>
+    <li>👩‍💻 AI/ML Fellow @ Cornell Tech BTT</li>
+    <li>🌱 Currently learning: TensorFlow and React</li>
+  </ul>
+</div>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shioncm&theme=tokyonight&hide_border=true" width="350"></a>
+</p>
