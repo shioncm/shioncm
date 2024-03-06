@@ -1,6 +1,6 @@
 ## <img alt="alienmonstergif" src="https://em-content.zobj.net/source/microsoft-teams/364/alien-monster_1f47e.png" width='32' align="left"/>Hi !
  
-🏫 Computer Engineering @ The Cooper Union  
+🏫 Electrical Engineering - Computer Engineering major, Computer Science minor @ The Cooper Union  
 👩‍💻 AI/ML Fellow @ Cornell Tech BTT  
 🌱 Currently learning: TensorFlow and React  
 
